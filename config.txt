@@ -1,0 +1,6 @@
+owner=357855920308355072
+prefix=F
+game=⁄»Êœ Œ«Ê« «‰« „»—„Ã
+stayinchannel=true
+songinstatus=false
+token=NTc0MjI2Njk4MDM2NTc2MjU3.XM2U4w.as4_QaxwqF8-GlvuJM6xKqnC62Y
